@@ -26,4 +26,7 @@
   (lib (name "MAX17048G+T10")(type "KiCad")(uri "D:/LIB_MAX17048G+T10/MAX17048G+T10/KiCad/MAX17048G+T10.kicad_sym")(options "")(descr ""))
   (lib (name "ADXL375BCCZ_RL7")(type "KiCad")(uri "${KIPRJMOD}/IMU's.pretty/ADXL375BCCZ_RL7/ADXL375BCCZ_RL7.kicad_sym")(options "")(descr ""))
   (lib (name "H3LIS200DLTR")(type "KiCad")(uri "${KIPRJMOD}/IMU's.pretty/H3LIS200DLTR/H3LIS200DLTR.kicad_sym")(options "")(descr ""))
+  (lib (name "MMC5983MA")(type "KiCad")(uri "${KIPRJMOD}/IMU's.pretty/MMC5983MA/MMC5983MA.kicad_sym")(options "")(descr ""))
+  (lib (name "ICM-45686")(type "KiCad")(uri "${KIPRJMOD}/IMU's.pretty/ICM_45686/ICM-45686.kicad_sym")(options "")(descr ""))
+  (lib (name "BQ24075RGTR")(type "KiCad")(uri "${KIPRJMOD}/Battery and Power MGMT.pretty/BQ24075RGTR.kicad_sym")(options "")(descr ""))
 )

@@ -17,4 +17,6 @@
   (lib (name "RP2350B")(type "KiCad")(uri "${KIPRJMOD}/SMD Components.pretty/RP2350B.pretty")(options "")(descr ""))
   (lib (name "ADXL375BCCZ_RL7")(type "KiCad")(uri "${KIPRJMOD}/IMU's.pretty/ADXL375BCCZ_RL7/ADXL375BCCZ_RL7.pretty")(options "")(descr ""))
   (lib (name "H3LIS200DLTR")(type "KiCad")(uri "${KIPRJMOD}/IMU's.pretty/H3LIS200DLTR.pretty")(options "")(descr ""))
+  (lib (name "RP2350A")(type "KiCad")(uri "${KIPRJMOD}/SMD Components.pretty/RP2350A.pretty")(options "")(descr ""))
+  (lib (name "ICM_45686")(type "KiCad")(uri "${KIPRJMOD}/IMU's.pretty/ICM_45686.pretty")(options "")(descr ""))
 )
